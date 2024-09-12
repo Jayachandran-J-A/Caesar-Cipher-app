@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Caesar Cipher - Decode</title>
+  <link rel="stylesheet" href="Css.css">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet">
+</head>
+<body class="decode-page">
+
+  <div class="container">
+    <h1 class="title">Caesar Cipher - Decode</h1>
+
+    <label for="inputText">Enter Text:</label>
+    <textarea id="inputText" placeholder="Enter your text here"></textarea>
+
+    <label for="shiftAmount">Shift:</label>
+    <input type="number" id="shiftAmount" placeholder="Enter shift value">
+
+    <button onclick="decode()">Decode</button>
+
+    <label for="outputText">Decoded Text:</label>
+    <textarea id="outputText" readonly></textarea>
+  </div>
+
+  <script src="decode.js"></script>
+</body>
+</html>
