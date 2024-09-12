@@ -38,14 +38,3 @@ The Caesar Cipher is a classic encryption algorithm that shifts each letter of t
 - Enhance the graphical interface for a better user experience.
 - Implement features like brute force attacks on the encrypted message.
 
----
-
-## License
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-## Contact
-For any questions or feedback, feel free to reach out:
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
