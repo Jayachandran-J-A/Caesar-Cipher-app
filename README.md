@@ -11,8 +11,7 @@ The **Caesar Cipher Encryption-Decryption App** is a desktop application designe
 ---
 
 ## Project Structure
-- **Caesar-Cipher-Encryption-Decryption_App.exe** (Shortcut): The executable file to run the application on Windows.
-- **Caesar Cipher EncryptionDecryption_Report.docx**: A report detailing the implementation of the Caesar Cipher algorithm and the design of the app.
+- **Caesar-Cipher-Encryption-Decryption_App.exe** : The executable file to run the application on Windows.
 - **Codes_used_to_create_this_App**: Contains the source code and scripts used to develop the application.
 
 ---
