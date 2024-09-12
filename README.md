@@ -14,13 +14,13 @@ The **Caesar Cipher Encryption-Decryption App** is a desktop application designe
 - **Caesar-Cipher-Encryption-Decryption_App.exe** (Shortcut): The executable file to run the application on Windows.
 - **Caesar Cipher EncryptionDecryption_Report.docx**: A report detailing the implementation of the Caesar Cipher algorithm and the design of the app.
 - **Codes_used_to_create_this_App**: Contains the source code and scripts used to develop the application.
-- **Caesar-Cipher-Encryption-Decryption_App-win32-x64**: The folder containing the build files for the Windows 32-bit and 64-bit versions of the app.
 
 ---
 
 ## How to Use
 1. **Download and Extract**: Clone or download the repository and extract the files.
-2. **Run the App**: Launch the `Caesar-Cipher-Encryption-Decryption_App.exe` to open the application.
+2. **Run the App**: 
+   - Launch the `Caesar-Cipher-Encryption-Decryption_App.exe` to open the application.
 3. **Encrypt/Decrypt**: 
    - Input your message into the app.
    - Choose a shift value (the number of positions to shift the letters).
